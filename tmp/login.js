@@ -118,6 +118,11 @@ function changeValidateCode(Obj) {
 
 // the encryption algorithm for password
 
+
+// js加密过程如下：
+// 1）将密码md5加密，然后截取前30个字符，并且变成大写字母；
+// 2）将学号与第一步得到的字符串拼接，再与固定参数拼接，然后将整个字符串md5加密，截取前30个字母并且转为大写，就得到了加密过后的字符串，也就是input的value值。5
+
 function chkpwd(obj) {
     var schoolcode = "11070";
     var yhm = document.all.txt_sdsdfdsfryuiighgdf.value;
