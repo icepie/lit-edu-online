@@ -1,0 +1,228 @@
+INFO  2021-01-03T21:25:54.993 30064 set_init_2:754: startup runtimepath/packpath value: /home/pi/.config/nvim,/etc/xdg/xdg-LXDE/nvim,/etc/xdg/nvim,/home/pi/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/usr/share/gdm/nvim/site,/var/lib/menu-xdg/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/usr/share/gdm/nvim/site,/var/lib/menu-xdg/nvim/site,/usr/local/share/nvim/runtime,/usr/local/lib/nvim,/var/lib/menu-xdg/nvim/site/after,/usr/share/gdm/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/var/lib/menu-xdg/nvim/site/after,/usr/share/gdm/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/pi/.local/share/nvim/site/after,/etc/xdg/nvim/after,/etc/xdg/xdg-LXDE/nvim/after,/home/pi/.config/nvim/after
+INFO  2021-01-03T21:25:55.419 30064 channel_create_event:204: new channel 3 (function coc#rpc#start_server[17]..<SNR>28_start:55) : {"id": 3, "client": {}, "mode": "rpc", "stream": "job"}
+INFO  2021-01-03T21:25:55.849 30064 on_process_exit:393: exited: pid=30118 status=0 stoptime=0
+INFO  2021-01-03T21:25:55.918 30064 channel_create_event:204: new channel 4 (function <SNR>23_on_refresh_event[26]..hexokinase#v2#scraper#on:43) : {"id": 4, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:25:56.084 30064 on_process_exit:393: exited: pid=30125 status=0 stoptime=0
+INFO  2021-01-03T21:25:56.085 30064 main:559: starting main loop
+INFO  2021-01-03T21:25:56.167 30064 channel_create_event:204: new channel 5 (function gitgutter#process_buffer[10]..<SNR>63_setup_path[3]..gitgutter#utility#set_repo_path[12]..gitgutter#async#execute:11) : {"id": 5, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:25:56.181 30064 on_process_exit:393: exited: pid=30130 status=0 stoptime=0
+INFO  2021-01-03T21:25:56.211 30064 on_process_exit:393: exited: pid=30132 status=0 stoptime=0
+INFO  2021-01-03T21:25:56.222 30064 channel_create_event:204: new channel 6 (function <SNR>74_on_exit_nvim[2]..1[5]..gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 6, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:25:56.245 30064 channel_create_event:204: new channel 7 (function gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 7, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:25:56.248 30064 on_process_exit:393: exited: pid=30134 status=0 stoptime=0
+INFO  2021-01-03T21:25:56.266 30064 on_process_exit:393: exited: pid=30139 status=0 stoptime=0
+INFO  2021-01-03T21:26:07.162 30064 channel_create_event:204: new channel 8 (function provider#python3#Call[9]..remote#host#Require[10]..provider#pythonx#Require[14]..provider#Poll:6) : {"id": 8, "client": {}, "mode": "rpc", "stream": "job"}
+INFO  2021-01-03T21:26:11.478 30064 channel_create_event:204: new channel 9 (function coc#rpc#async_request[4]..coc#util#run_terminal[11]..coc#util#open_terminal:37) : {"id": 9, "mode": "terminal", "stream": "job", "pty": "/dev/pts/5", "buffer": 2}
+INFO  2021-01-03T21:26:59.238 30064 on_process_exit:393: exited: pid=30343 status=0 stoptime=0
+INFO  2021-01-03T21:26:59.288 30064 channel_create_event:204: new channel 10 (function gitgutter#all[8]..gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 10, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:26:59.496 30064 on_process_exit:393: exited: pid=30703 status=0 stoptime=0
+INFO  2021-01-03T21:27:03.512 30064 channel_create_event:204: new channel 11 (function gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 11, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:27:03.603 30064 on_process_exit:393: exited: pid=30727 status=0 stoptime=0
+INFO  2021-01-03T21:27:05.209 30064 channel_create_event:204: new channel 12 (function gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 12, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:27:05.240 30064 on_process_exit:393: exited: pid=30742 status=0 stoptime=0
+INFO  2021-01-03T21:27:05.978 30064 channel_create_event:204: new channel 13 (function gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 13, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:27:06.014 30064 on_process_exit:393: exited: pid=30803 status=0 stoptime=0
+INFO  2021-01-03T21:27:06.194 30064 channel_create_event:204: new channel 14 (function gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 14, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:27:06.218 30064 on_process_exit:393: exited: pid=30812 status=0 stoptime=0
+INFO  2021-01-03T21:27:06.410 30064 channel_create_event:204: new channel 15 (function gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 15, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:27:06.442 30064 on_process_exit:393: exited: pid=30822 status=0 stoptime=0
+INFO  2021-01-03T21:27:06.631 30064 channel_create_event:204: new channel 16 (function gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 16, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:27:06.650 30064 on_process_exit:393: exited: pid=30832 status=0 stoptime=0
+INFO  2021-01-03T21:27:06.808 30064 channel_create_event:204: new channel 17 (function gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 17, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:27:06.832 30064 on_process_exit:393: exited: pid=30845 status=0 stoptime=0
+INFO  2021-01-03T21:27:07.359 30064 channel_create_event:204: new channel 18 (function gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 18, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:27:07.394 30064 on_process_exit:393: exited: pid=30921 status=0 stoptime=0
+INFO  2021-01-03T21:27:07.546 30064 channel_create_event:204: new channel 19 (function gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 19, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:27:07.566 30064 on_process_exit:393: exited: pid=30928 status=0 stoptime=0
+INFO  2021-01-03T21:27:07.655 30064 channel_create_event:204: new channel 20 (function gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 20, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:27:07.682 30064 on_process_exit:393: exited: pid=30935 status=0 stoptime=0
+INFO  2021-01-03T21:27:11.229 30064 channel_create_event:204: new channel 21 (function gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 21, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:27:11.261 30064 on_process_exit:393: exited: pid=30953 status=0 stoptime=0
+INFO  2021-01-03T21:27:12.555 30064 channel_create_event:204: new channel 22 (function gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 22, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:27:12.588 30064 on_process_exit:393: exited: pid=30964 status=0 stoptime=0
+INFO  2021-01-03T21:27:12.795 30064 channel_create_event:204: new channel 23 (function gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 23, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:27:12.819 30064 on_process_exit:393: exited: pid=30973 status=0 stoptime=0
+INFO  2021-01-03T21:27:13.365 30064 channel_create_event:204: new channel 24 (function gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 24, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:27:13.394 30064 on_process_exit:393: exited: pid=30982 status=0 stoptime=0
+INFO  2021-01-03T21:27:13.513 30064 channel_create_event:204: new channel 25 (function gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 25, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:27:13.531 30064 on_process_exit:393: exited: pid=30989 status=0 stoptime=0
+INFO  2021-01-03T21:27:13.675 30064 channel_create_event:204: new channel 26 (function gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 26, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:27:13.698 30064 on_process_exit:393: exited: pid=30998 status=0 stoptime=0
+INFO  2021-01-03T21:27:13.771 30064 channel_create_event:204: new channel 27 (function gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 27, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:27:13.794 30064 on_process_exit:393: exited: pid=31005 status=0 stoptime=0
+INFO  2021-01-03T21:27:13.870 30064 channel_create_event:204: new channel 28 (function gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 28, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:27:13.895 30064 on_process_exit:393: exited: pid=31013 status=0 stoptime=0
+INFO  2021-01-03T21:27:16.288 30064 os_proc_tree_kill:96: sending SIGTERM to PID -30066
+INFO  2021-01-03T21:27:16.288 30064 os_proc_tree_kill:96: sending SIGTERM to PID -30333
+INFO  2021-01-03T21:27:16.379 30064 on_process_exit:393: exited: pid=30066 status=143 stoptime=268383737515503
+INFO  2021-01-03T21:27:16.573 30064 on_process_exit:393: exited: pid=30333 status=0 stoptime=268383737804250
+INFO  2021-01-03T21:27:16.574 30064 os_exit:586: Nvim exit: 0
+INFO  2021-01-03T21:27:45.915 31265 set_init_2:754: startup runtimepath/packpath value: /home/pi/.config/nvim,/etc/xdg/xdg-LXDE/nvim,/etc/xdg/nvim,/home/pi/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/usr/share/gdm/nvim/site,/var/lib/menu-xdg/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/usr/share/gdm/nvim/site,/var/lib/menu-xdg/nvim/site,/usr/local/share/nvim/runtime,/usr/local/lib/nvim,/var/lib/menu-xdg/nvim/site/after,/usr/share/gdm/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/var/lib/menu-xdg/nvim/site/after,/usr/share/gdm/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/pi/.local/share/nvim/site/after,/etc/xdg/nvim/after,/etc/xdg/xdg-LXDE/nvim/after,/home/pi/.config/nvim/after
+INFO  2021-01-03T21:27:46.239 31265 channel_create_event:204: new channel 3 (function coc#rpc#start_server[17]..<SNR>28_start:55) : {"id": 3, "client": {}, "mode": "rpc", "stream": "job"}
+INFO  2021-01-03T21:27:46.663 31265 on_process_exit:393: exited: pid=31272 status=0 stoptime=0
+INFO  2021-01-03T21:27:46.783 31265 channel_create_event:204: new channel 4 (function <SNR>23_on_refresh_event[26]..hexokinase#v2#scraper#on:43) : {"id": 4, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:27:46.907 31265 main:559: starting main loop
+INFO  2021-01-03T21:27:46.970 31265 channel_create_event:204: new channel 5 (function gitgutter#process_buffer[10]..<SNR>63_setup_path[3]..gitgutter#utility#set_repo_path[12]..gitgutter#async#execute:11) : {"id": 5, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:27:46.979 31265 on_process_exit:393: exited: pid=31279 status=0 stoptime=0
+INFO  2021-01-03T21:27:47.023 31265 on_process_exit:393: exited: pid=31281 status=0 stoptime=0
+INFO  2021-01-03T21:27:47.036 31265 channel_create_event:204: new channel 6 (function <SNR>74_on_exit_nvim[2]..1[5]..gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 6, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:27:47.059 31265 channel_create_event:204: new channel 7 (function gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 7, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:27:47.065 31265 on_process_exit:393: exited: pid=31283 status=0 stoptime=0
+INFO  2021-01-03T21:27:47.097 31265 on_process_exit:393: exited: pid=31288 status=0 stoptime=0
+INFO  2021-01-03T21:27:47.394 31265 on_process_exit:393: exited: pid=31278 status=0 stoptime=0
+INFO  2021-01-03T21:27:57.046 31265 channel_create_event:204: new channel 8 (function provider#python3#Call[9]..remote#host#Require[10]..provider#pythonx#Require[14]..provider#Poll:6) : {"id": 8, "client": {}, "mode": "rpc", "stream": "job"}
+INFO  2021-01-03T21:28:23.197 31265 os_proc_tree_kill:96: sending SIGTERM to PID -31270
+INFO  2021-01-03T21:28:23.198 31265 os_proc_tree_kill:96: sending SIGTERM to PID -31398
+INFO  2021-01-03T21:28:23.313 31265 on_process_exit:393: exited: pid=31270 status=143 stoptime=268450644431394
+INFO  2021-01-03T21:28:23.483 31265 on_process_exit:393: exited: pid=31398 status=0 stoptime=268450648083902
+INFO  2021-01-03T21:28:23.486 31265 os_exit:586: Nvim exit: 0
+INFO  2021-01-03T21:28:24.540 31567 set_init_2:754: startup runtimepath/packpath value: /home/pi/.config/nvim,/etc/xdg/xdg-LXDE/nvim,/etc/xdg/nvim,/home/pi/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/usr/share/gdm/nvim/site,/var/lib/menu-xdg/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/usr/share/gdm/nvim/site,/var/lib/menu-xdg/nvim/site,/usr/local/share/nvim/runtime,/usr/local/lib/nvim,/var/lib/menu-xdg/nvim/site/after,/usr/share/gdm/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/var/lib/menu-xdg/nvim/site/after,/usr/share/gdm/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/pi/.local/share/nvim/site/after,/etc/xdg/nvim/after,/etc/xdg/xdg-LXDE/nvim/after,/home/pi/.config/nvim/after
+INFO  2021-01-03T21:28:25.147 31567 channel_create_event:204: new channel 3 (function coc#rpc#start_server[17]..<SNR>28_start:55) : {"id": 3, "client": {}, "mode": "rpc", "stream": "job"}
+INFO  2021-01-03T21:28:25.991 31567 on_process_exit:393: exited: pid=31575 status=0 stoptime=0
+INFO  2021-01-03T21:28:26.086 31567 channel_create_event:204: new channel 4 (function <SNR>23_on_refresh_event[26]..hexokinase#v2#scraper#on:43) : {"id": 4, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:28:26.252 31567 main:559: starting main loop
+INFO  2021-01-03T21:28:26.260 31567 on_process_exit:393: exited: pid=31626 status=0 stoptime=0
+INFO  2021-01-03T21:28:26.314 31567 channel_create_event:204: new channel 5 (function gitgutter#process_buffer[10]..<SNR>63_setup_path[3]..gitgutter#utility#set_repo_path[12]..gitgutter#async#execute:11) : {"id": 5, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:28:26.356 31567 channel_create_event:204: new channel 6 (function gitgutter#process_buffer[10]..<SNR>63_setup_path[3]..gitgutter#utility#set_repo_path[12]..gitgutter#async#execute:11) : {"id": 6, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:28:26.376 31567 on_process_exit:393: exited: pid=31631 status=0 stoptime=0
+INFO  2021-01-03T21:28:26.376 31567 on_process_exit:393: exited: pid=31633 status=0 stoptime=0
+INFO  2021-01-03T21:28:26.390 31567 on_process_exit:393: exited: pid=31635 status=0 stoptime=0
+INFO  2021-01-03T21:28:26.408 31567 channel_create_event:204: new channel 7 (function <SNR>74_on_exit_nvim[2]..1[5]..gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 7, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:28:26.422 31567 channel_create_event:204: new channel 8 (function <SNR>74_on_exit_nvim[2]..1[5]..gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 8, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:28:26.436 31567 on_process_exit:393: exited: pid=31637 status=0 stoptime=0
+INFO  2021-01-03T21:28:26.440 31567 on_process_exit:393: exited: pid=31640 status=0 stoptime=0
+INFO  2021-01-03T21:28:36.631 31567 channel_create_event:204: new channel 9 (function provider#python3#Call[9]..remote#host#Require[10]..provider#pythonx#Require[14]..provider#Poll:6) : {"id": 9, "client": {}, "mode": "rpc", "stream": "job"}
+INFO  2021-01-03T21:28:46.391 31567 emsg_multiline:681: E492: Not an editor command: X
+INFO  2021-01-03T21:29:10.431 31567 os_proc_tree_kill:96: sending SIGTERM to PID -31569
+INFO  2021-01-03T21:29:10.448 31567 os_proc_tree_kill:96: sending SIGTERM to PID -31751
+INFO  2021-01-03T21:29:10.539 31567 on_process_exit:393: exited: pid=31569 status=143 stoptime=268497880658620
+INFO  2021-01-03T21:29:10.655 31567 on_process_exit:393: exited: pid=31751 status=0 stoptime=268497897282006
+INFO  2021-01-03T21:29:10.656 31567 os_exit:586: Nvim exit: 0
+INFO  2021-01-03T21:53:42.988 10924 set_init_2:754: startup runtimepath/packpath value: /home/pi/.config/nvim,/etc/xdg/xdg-LXDE/nvim,/etc/xdg/nvim,/home/pi/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/usr/share/gdm/nvim/site,/var/lib/menu-xdg/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/usr/share/gdm/nvim/site,/var/lib/menu-xdg/nvim/site,/usr/local/share/nvim/runtime,/usr/local/lib/nvim,/var/lib/menu-xdg/nvim/site/after,/usr/share/gdm/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/var/lib/menu-xdg/nvim/site/after,/usr/share/gdm/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/pi/.local/share/nvim/site/after,/etc/xdg/nvim/after,/etc/xdg/xdg-LXDE/nvim/after,/home/pi/.config/nvim/after
+INFO  2021-01-03T21:53:43.499 10924 channel_create_event:204: new channel 3 (function coc#rpc#start_server[17]..<SNR>28_start:55) : {"id": 3, "client": {}, "mode": "rpc", "stream": "job"}
+INFO  2021-01-03T21:53:44.133 10924 on_process_exit:393: exited: pid=10927 status=0 stoptime=0
+INFO  2021-01-03T21:53:44.265 10924 channel_create_event:204: new channel 4 (function <SNR>23_on_refresh_event[26]..hexokinase#v2#scraper#on:43) : {"id": 4, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:53:44.410 10924 main:559: starting main loop
+INFO  2021-01-03T21:53:44.414 10924 on_process_exit:393: exited: pid=10934 status=0 stoptime=0
+INFO  2021-01-03T21:53:44.491 10924 channel_create_event:204: new channel 5 (function gitgutter#process_buffer[10]..<SNR>63_setup_path[3]..gitgutter#utility#set_repo_path[12]..gitgutter#async#execute:11) : {"id": 5, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:53:44.529 10924 channel_create_event:204: new channel 6 (function gitgutter#process_buffer[10]..<SNR>63_setup_path[3]..gitgutter#utility#set_repo_path[12]..gitgutter#async#execute:11) : {"id": 6, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:53:44.551 10924 on_process_exit:393: exited: pid=10939 status=0 stoptime=0
+INFO  2021-01-03T21:53:44.552 10924 on_process_exit:393: exited: pid=10941 status=0 stoptime=0
+INFO  2021-01-03T21:53:44.564 10924 on_process_exit:393: exited: pid=10943 status=0 stoptime=0
+INFO  2021-01-03T21:53:44.578 10924 channel_create_event:204: new channel 7 (function <SNR>74_on_exit_nvim[2]..1[5]..gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 7, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:53:44.587 10924 channel_create_event:204: new channel 8 (function <SNR>74_on_exit_nvim[2]..1[5]..gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 8, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:53:44.611 10924 on_process_exit:393: exited: pid=10945 status=0 stoptime=0
+INFO  2021-01-03T21:53:44.611 10924 on_process_exit:393: exited: pid=10948 status=0 stoptime=0
+INFO  2021-01-03T21:53:55.442 10924 channel_create_event:204: new channel 9 (function provider#python3#Call[9]..remote#host#Require[10]..provider#pythonx#Require[14]..provider#Poll:6) : {"id": 9, "client": {}, "mode": "rpc", "stream": "job"}
+INFO  2021-01-03T21:56:32.970 10924 channel_create_event:204: new channel 10 (function gitgutter#all[8]..gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 10, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:56:36.754 10924 on_process_exit:393: exited: pid=11651 status=0 stoptime=0
+INFO  2021-01-03T21:57:50.202 10924 channel_create_event:204: new channel 11 (function gitgutter#all[8]..gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 11, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:57:51.861 10924 on_process_exit:393: exited: pid=12302 status=0 stoptime=0
+INFO  2021-01-03T21:58:09.923 10924 channel_create_event:204: new channel 12 (function gitgutter#all[8]..gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 12, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:58:14.275 10924 on_process_exit:393: exited: pid=12467 status=0 stoptime=0
+INFO  2021-01-03T21:58:25.335 10924 channel_create_event:204: new channel 13 (function gitgutter#all[8]..gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 13, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T21:58:25.844 10924 on_process_exit:393: exited: pid=12678 status=0 stoptime=0
+INFO  2021-01-03T22:00:07.705 10924 os_proc_tree_kill:96: sending SIGTERM to PID -10926
+INFO  2021-01-03T22:00:07.727 10924 os_proc_tree_kill:96: sending SIGTERM to PID -11062
+INFO  2021-01-03T22:00:07.834 10924 on_process_exit:393: exited: pid=10926 status=143 stoptime=270355154702490
+INFO  2021-01-03T22:00:07.964 10924 on_process_exit:393: exited: pid=11062 status=0 stoptime=270355176624285
+INFO  2021-01-03T22:00:07.965 10924 os_exit:586: Nvim exit: 0
+INFO  2021-01-03T22:00:14.315 13643 set_init_2:754: startup runtimepath/packpath value: /home/pi/.config/nvim,/etc/xdg/xdg-LXDE/nvim,/etc/xdg/nvim,/home/pi/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/usr/share/gdm/nvim/site,/var/lib/menu-xdg/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/usr/share/gdm/nvim/site,/var/lib/menu-xdg/nvim/site,/usr/local/share/nvim/runtime,/usr/local/lib/nvim,/var/lib/menu-xdg/nvim/site/after,/usr/share/gdm/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/var/lib/menu-xdg/nvim/site/after,/usr/share/gdm/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/pi/.local/share/nvim/site/after,/etc/xdg/nvim/after,/etc/xdg/xdg-LXDE/nvim/after,/home/pi/.config/nvim/after
+INFO  2021-01-03T22:00:14.670 13643 channel_create_event:204: new channel 3 (function coc#rpc#start_server[17]..<SNR>28_start:55) : {"id": 3, "client": {}, "mode": "rpc", "stream": "job"}
+INFO  2021-01-03T22:00:15.128 13643 on_process_exit:393: exited: pid=13648 status=0 stoptime=0
+INFO  2021-01-03T22:00:15.260 13643 channel_create_event:204: new channel 4 (function <SNR>23_on_refresh_event[26]..hexokinase#v2#scraper#on:43) : {"id": 4, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T22:00:15.431 13643 main:559: starting main loop
+INFO  2021-01-03T22:00:15.435 13643 on_process_exit:393: exited: pid=13655 status=0 stoptime=0
+INFO  2021-01-03T22:00:15.485 13643 channel_create_event:204: new channel 5 (function gitgutter#process_buffer[10]..<SNR>63_setup_path[3]..gitgutter#utility#set_repo_path[12]..gitgutter#async#execute:11) : {"id": 5, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T22:00:15.494 13643 on_process_exit:393: exited: pid=13661 status=0 stoptime=0
+INFO  2021-01-03T22:00:15.533 13643 on_process_exit:393: exited: pid=13663 status=0 stoptime=0
+INFO  2021-01-03T22:00:15.545 13643 channel_create_event:204: new channel 6 (function <SNR>74_on_exit_nvim[2]..1[5]..gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 6, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T22:00:15.566 13643 channel_create_event:204: new channel 7 (function gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 7, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T22:00:15.569 13643 on_process_exit:393: exited: pid=13665 status=0 stoptime=0
+INFO  2021-01-03T22:00:15.593 13643 on_process_exit:393: exited: pid=13670 status=0 stoptime=0
+INFO  2021-01-03T22:00:25.396 13643 channel_create_event:204: new channel 8 (function provider#python3#Call[9]..remote#host#Require[10]..provider#pythonx#Require[14]..provider#Poll:6) : {"id": 8, "client": {}, "mode": "rpc", "stream": "job"}
+INFO  2021-01-03T22:00:32.727 13643 os_proc_tree_kill:96: sending SIGTERM to PID -13647
+INFO  2021-01-03T22:00:32.727 13643 os_proc_tree_kill:96: sending SIGTERM to PID -13783
+INFO  2021-01-03T22:00:32.806 13643 on_process_exit:393: exited: pid=13647 status=143 stoptime=270380176393201
+INFO  2021-01-03T22:00:32.842 13643 on_process_exit:393: exited: pid=13783 status=0 stoptime=270380176583366
+INFO  2021-01-03T22:00:32.842 13643 os_exit:586: Nvim exit: 0
+INFO  2021-01-03T22:00:52.669 14073 set_init_2:754: startup runtimepath/packpath value: /home/pi/.config/nvim,/etc/xdg/xdg-LXDE/nvim,/etc/xdg/nvim,/home/pi/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/usr/share/gdm/nvim/site,/var/lib/menu-xdg/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/usr/share/gdm/nvim/site,/var/lib/menu-xdg/nvim/site,/usr/local/share/nvim/runtime,/usr/local/lib/nvim,/var/lib/menu-xdg/nvim/site/after,/usr/share/gdm/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/var/lib/menu-xdg/nvim/site/after,/usr/share/gdm/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/pi/.local/share/nvim/site/after,/etc/xdg/nvim/after,/etc/xdg/xdg-LXDE/nvim/after,/home/pi/.config/nvim/after
+INFO  2021-01-03T22:00:52.936 14073 channel_create_event:204: new channel 3 (function coc#rpc#start_server[17]..<SNR>28_start:55) : {"id": 3, "client": {}, "mode": "rpc", "stream": "job"}
+INFO  2021-01-03T22:00:53.193 14073 on_process_exit:393: exited: pid=14084 status=0 stoptime=0
+INFO  2021-01-03T22:00:53.265 14073 channel_create_event:204: new channel 4 (function <SNR>23_on_refresh_event[26]..hexokinase#v2#scraper#on:43) : {"id": 4, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T22:00:53.359 14073 main:559: starting main loop
+INFO  2021-01-03T22:00:53.363 14073 on_process_exit:393: exited: pid=14085 status=0 stoptime=0
+INFO  2021-01-03T22:00:53.417 14073 channel_create_event:204: new channel 5 (function gitgutter#process_buffer[10]..<SNR>63_setup_path[3]..gitgutter#utility#set_repo_path[12]..gitgutter#async#execute:11) : {"id": 5, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T22:00:53.423 14073 on_process_exit:393: exited: pid=14090 status=0 stoptime=0
+INFO  2021-01-03T22:00:53.470 14073 on_process_exit:393: exited: pid=14092 status=0 stoptime=0
+INFO  2021-01-03T22:00:53.479 14073 channel_create_event:204: new channel 6 (function <SNR>74_on_exit_nvim[2]..1[5]..gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 6, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T22:00:53.501 14073 channel_create_event:204: new channel 7 (function gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 7, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T22:00:53.506 14073 on_process_exit:393: exited: pid=14094 status=0 stoptime=0
+INFO  2021-01-03T22:00:53.515 14073 on_process_exit:393: exited: pid=14099 status=0 stoptime=0
+INFO  2021-01-03T22:01:02.506 14073 channel_create_event:204: new channel 8 (function provider#python3#Call[9]..remote#host#Require[10]..provider#pythonx#Require[14]..provider#Poll:6) : {"id": 8, "client": {}, "mode": "rpc", "stream": "job"}
+INFO  2021-01-03T22:01:20.838 14073 os_proc_tree_kill:96: sending SIGTERM to PID -14077
+INFO  2021-01-03T22:01:20.846 14073 os_proc_tree_kill:96: sending SIGTERM to PID -14208
+INFO  2021-01-03T22:01:20.937 14073 on_process_exit:393: exited: pid=14077 status=143 stoptime=270428287832126
+INFO  2021-01-03T22:01:21.022 14073 on_process_exit:393: exited: pid=14208 status=0 stoptime=270428295281529
+INFO  2021-01-03T22:01:21.023 14073 os_exit:586: Nvim exit: 0
+INFO  2021-01-03T22:01:39.909 14448 set_init_2:754: startup runtimepath/packpath value: /home/pi/.config/nvim,/etc/xdg/xdg-LXDE/nvim,/etc/xdg/nvim,/home/pi/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/usr/share/gdm/nvim/site,/var/lib/menu-xdg/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/usr/share/gdm/nvim/site,/var/lib/menu-xdg/nvim/site,/usr/local/share/nvim/runtime,/usr/local/lib/nvim,/var/lib/menu-xdg/nvim/site/after,/usr/share/gdm/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/var/lib/menu-xdg/nvim/site/after,/usr/share/gdm/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/pi/.local/share/nvim/site/after,/etc/xdg/nvim/after,/etc/xdg/xdg-LXDE/nvim/after,/home/pi/.config/nvim/after
+INFO  2021-01-03T22:01:40.192 14448 channel_create_event:204: new channel 3 (function coc#rpc#start_server[17]..<SNR>28_start:55) : {"id": 3, "client": {}, "mode": "rpc", "stream": "job"}
+INFO  2021-01-03T22:01:40.556 14448 on_process_exit:393: exited: pid=14451 status=0 stoptime=0
+INFO  2021-01-03T22:01:40.711 14448 channel_create_event:204: new channel 4 (function <SNR>23_on_refresh_event[26]..hexokinase#v2#scraper#on:43) : {"id": 4, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T22:01:40.886 14448 main:559: starting main loop
+INFO  2021-01-03T22:01:40.895 14448 on_process_exit:393: exited: pid=14458 status=0 stoptime=0
+INFO  2021-01-03T22:01:40.978 14448 channel_create_event:204: new channel 5 (function gitgutter#process_buffer[10]..<SNR>63_setup_path[3]..gitgutter#utility#set_repo_path[12]..gitgutter#async#execute:11) : {"id": 5, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T22:01:40.987 14448 on_process_exit:393: exited: pid=14513 status=0 stoptime=0
+INFO  2021-01-03T22:01:41.038 14448 on_process_exit:393: exited: pid=14515 status=0 stoptime=0
+INFO  2021-01-03T22:01:41.059 14448 channel_create_event:204: new channel 6 (function <SNR>74_on_exit_nvim[2]..1[5]..gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 6, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T22:01:41.074 14448 channel_create_event:204: new channel 7 (function gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 7, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T22:01:41.080 14448 on_process_exit:393: exited: pid=14518 status=0 stoptime=0
+INFO  2021-01-03T22:01:41.100 14448 on_process_exit:393: exited: pid=14523 status=0 stoptime=0
+INFO  2021-01-03T22:01:50.432 14448 channel_create_event:204: new channel 8 (function provider#python3#Call[9]..remote#host#Require[10]..provider#pythonx#Require[14]..provider#Poll:6) : {"id": 8, "client": {}, "mode": "rpc", "stream": "job"}
+INFO  2021-01-03T22:02:28.223 14448 channel_create_event:204: new channel 9 (function gitgutter#all[8]..gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 9, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T22:02:28.259 14448 on_process_exit:393: exited: pid=15011 status=0 stoptime=0
+INFO  2021-01-03T22:08:10.636 14448 channel_create_event:204: new channel 10 (function gitgutter#all[8]..gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 10, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T22:08:17.806 14448 on_process_exit:393: exited: pid=18196 status=0 stoptime=0
+INFO  2021-01-03T22:08:27.595 14448 channel_create_event:204: new channel 11 (function gitgutter#all[8]..gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 11, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T22:08:31.172 14448 on_process_exit:393: exited: pid=18293 status=0 stoptime=0
+INFO  2021-01-03T22:08:49.409 14448 channel_create_event:204: new channel 12 (function gitgutter#all[8]..gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 12, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T22:08:51.281 14448 channel_create_event:204: new channel 13 (function gitgutter#all[8]..gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 13, "mode": "bytes", "stream": "job"}
+INFO  2021-01-03T22:08:53.056 14448 on_process_exit:393: exited: pid=18518 status=0 stoptime=0
+INFO  2021-01-03T22:08:53.057 14448 on_process_exit:393: exited: pid=18524 status=0 stoptime=0
+WARN  2021-01-03T22:17:21.442 14448 call_set_error:627: RPC: ch 8 was closed by the client
+WARN  2021-01-03T22:17:21.516 14448 call_set_error:627: RPC: ch 3 was closed by the client
+INFO  2021-01-03T22:17:21.517 14448 on_process_exit:393: exited: pid=14450 status=143 stoptime=0
+INFO  2021-01-03T22:17:21.517 14448 on_process_exit:393: exited: pid=14646 status=129 stoptime=0
+WARN  2021-01-03T22:17:21.529 14448 deadly_signal:162: got signal 15 (SIGTERM)
+INFO  2021-01-03T22:17:23.218 14448 os_exit:586: Nvim exit: 1
+INFO  2021-01-04T14:21:08.836 22884 set_init_2:754: startup runtimepath/packpath value: /home/pi/.config/nvim,/etc/xdg/xdg-LXDE/nvim,/etc/xdg/nvim,/home/pi/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/usr/share/gdm/nvim/site,/var/lib/menu-xdg/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/usr/share/gdm/nvim/site,/var/lib/menu-xdg/nvim/site,/usr/local/share/nvim/runtime,/usr/local/lib/nvim,/var/lib/menu-xdg/nvim/site/after,/usr/share/gdm/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/var/lib/menu-xdg/nvim/site/after,/usr/share/gdm/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/pi/.local/share/nvim/site/after,/etc/xdg/nvim/after,/etc/xdg/xdg-LXDE/nvim/after,/home/pi/.config/nvim/after
+INFO  2021-01-04T14:21:09.279 22884 channel_create_event:204: new channel 3 (function coc#rpc#start_server[17]..<SNR>28_start:55) : {"id": 3, "client": {}, "mode": "rpc", "stream": "job"}
+INFO  2021-01-04T14:21:10.001 22884 channel_create_event:204: new channel 4 (function <SNR>23_on_refresh_event[26]..hexokinase#v2#scraper#on:43) : {"id": 4, "mode": "bytes", "stream": "job"}
+INFO  2021-01-04T14:21:10.135 22884 main:559: starting main loop
+INFO  2021-01-04T14:21:10.143 22884 on_process_exit:393: exited: pid=22943 status=0 stoptime=0
+INFO  2021-01-04T14:21:10.178 22884 channel_create_event:204: new channel 5 (function gitgutter#process_buffer[10]..<SNR>69_setup_path[3]..gitgutter#utility#set_repo_path[12]..gitgutter#async#execute:11) : {"id": 5, "mode": "bytes", "stream": "job"}
+INFO  2021-01-04T14:21:10.190 22884 on_process_exit:393: exited: pid=22948 status=0 stoptime=0
+INFO  2021-01-04T14:21:10.208 22884 on_process_exit:393: exited: pid=22950 status=0 stoptime=0
+INFO  2021-01-04T14:21:10.217 22884 channel_create_event:204: new channel 6 (function <SNR>80_on_exit_nvim[2]..1[5]..gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 6, "mode": "bytes", "stream": "job"}
+INFO  2021-01-04T14:21:10.232 22884 channel_create_event:204: new channel 7 (function gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 7, "mode": "bytes", "stream": "job"}
+INFO  2021-01-04T14:21:10.240 22884 on_process_exit:393: exited: pid=22952 status=0 stoptime=0
+INFO  2021-01-04T14:21:10.255 22884 on_process_exit:393: exited: pid=22955 status=0 stoptime=0
+INFO  2021-01-04T14:21:14.945 22884 on_process_exit:393: exited: pid=22982 status=0 stoptime=0
+INFO  2021-01-04T14:21:14.960 22884 channel_create_event:204: new channel 8 (function provider#python3#Call[9]..remote#host#Require[10]..provider#pythonx#Require[14]..provider#Poll:6) : {"id": 8, "client": {}, "mode": "rpc", "stream": "job"}
+INFO  2021-01-04T14:21:28.925 22884 channel_create_event:204: new channel 9 (function gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 9, "mode": "bytes", "stream": "job"}
+INFO  2021-01-04T14:21:28.944 22884 on_process_exit:393: exited: pid=23129 status=0 stoptime=0
+INFO  2021-01-04T14:21:47.505 22884 channel_create_event:204: new channel 10 (function gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 10, "mode": "bytes", "stream": "job"}
+INFO  2021-01-04T14:21:47.533 22884 on_process_exit:393: exited: pid=23292 status=0 stoptime=0
+INFO  2021-01-04T14:22:03.637 22884 channel_create_event:204: new channel 11 (function gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 11, "mode": "bytes", "stream": "job"}
+INFO  2021-01-04T14:22:03.664 22884 on_process_exit:393: exited: pid=23451 status=0 stoptime=0
+INFO  2021-01-04T14:22:15.902 22884 channel_create_event:204: new channel 12 (function gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 12, "mode": "bytes", "stream": "job"}
+INFO  2021-01-04T14:22:15.929 22884 on_process_exit:393: exited: pid=23535 status=0 stoptime=0
+INFO  2021-01-04T14:22:23.342 22884 channel_create_event:204: new channel 13 (function gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 13, "mode": "bytes", "stream": "job"}
+INFO  2021-01-04T14:22:23.370 22884 on_process_exit:393: exited: pid=23609 status=0 stoptime=0
+INFO  2021-01-04T14:23:16.334 22884 channel_create_event:204: new channel 14 (function gitgutter#process_buffer[19]..gitgutter#diff#run_diff[83]..gitgutter#async#execute:11) : {"id": 14, "mode": "bytes", "stream": "job"}
+INFO  2021-01-04T14:23:16.356 22884 on_process_exit:393: exited: pid=24155 status=0 stoptime=0
+INFO  2021-01-04T14:23:50.302 22884 os_proc_tree_kill:96: sending SIGTERM to PID -22936
+INFO  2021-01-04T14:23:50.302 22884 os_proc_tree_kill:96: sending SIGTERM to PID -22985
+INFO  2021-01-04T14:23:50.348 22884 on_process_exit:393: exited: pid=22936 status=143 stoptime=57932855773036
+INFO  2021-01-04T14:23:50.417 22884 on_process_exit:393: exited: pid=22985 status=0 stoptime=57932856144616
+INFO  2021-01-04T14:23:50.418 22884 os_exit:586: Nvim exit: 0

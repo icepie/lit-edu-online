@@ -9,7 +9,7 @@ def md5(string: str) -> str:
     return rawmd5(string.encode()).hexdigest().upper()
 
 
-def chkpwd(username: str, password: str) -> "赋值给: sdfdfdhgwerewt":
+def chkpwd(username: str, password: str):
     schoolcode = "11070"
     return md5(username + md5(password)[0:30].upper() + schoolcode)[0:30].upper()
 
@@ -79,4 +79,5 @@ class Session(r.Session):
             "cxfdsfdshjhjlk": "",
         }
 
-        self.post(url, data=login_packet)
+        u = self.post(url, data=login_packet).text
+        print()
