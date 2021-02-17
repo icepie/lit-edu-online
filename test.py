@@ -1,7 +1,7 @@
 from liteduol import Session
 
-username = 'B19071121'
-password = 'Lym001029'
+username = ''
+password = ''
 
 session = Session(username, password)
 print(session)
